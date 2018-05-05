@@ -5,7 +5,7 @@ LeetCode Solutions
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [Java](./src/leetcode/FourSum.java)|Medium|
-|15|[3Sum](https://leetcode.com/problems/3sum/)| [Java](./src/leetcode/ThreeSum.cpp)|Medium|
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [Java](./src/leetcode/ThreeSum.java)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./src/leetcode/RomanToInt.java)|Easy|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./src/leetcode/MaxArea.java)|Medium|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./src/leetcode/IsPalindrome.java)|Easy|
