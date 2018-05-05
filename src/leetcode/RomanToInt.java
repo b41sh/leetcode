@@ -1,5 +1,9 @@
 package leetcode.romanToInt;
 
+// Source : https://leetcode.com/problems/roman-to-int/
+// Author : Shen Bai
+// Date   : 2018-05-04
+
 /**
  * Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.
  * For example, two is written as II in Roman numeral, just two one's added together. Twelve is written as, XII, which is simply X + II. The number twenty seven is written as XXVII, which is XX + V + II.

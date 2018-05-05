@@ -1,5 +1,9 @@
 package leetcode.lengthOfLongestSubstring;
 
+// Source : https://leetcode.com/problems/longest-substring-without-repeating-characters/
+// Author : Shen Bai
+// Date   : 2018-05-01
+
 import java.util.*;
 
 /**

@@ -1,5 +1,9 @@
 package leetcode.reverse;
 
+// Source : https://leetcode.com/problems/reverse/
+// Author : Shen Bai
+// Date   : 2018-05-03
+
 /**
  * Given a 32-bit signed integer, reverse digits of an integer.
  * Example 1:

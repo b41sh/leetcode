@@ -1,5 +1,9 @@
 package leetcode.isPalindrome;
 
+// Source : https://leetcode.com/problems/is-palindrome/
+// Author : Shen Bai
+// Date   : 2018-05-03
+
 /**
  * Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
  */
