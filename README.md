@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./src/leetcode/MergeTwoSortedLists.java)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./src/leetcode/ValidParentheses.java)|Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [Java](./src/leetcode/FourSum.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](./src/leetcode/LetterCombinations.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [Java](./src/leetcode/ThreeSum.java)|Medium|

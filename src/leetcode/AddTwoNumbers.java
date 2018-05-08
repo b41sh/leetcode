@@ -11,6 +11,8 @@ package leetcode.addTwoNumbers;
  * Output: 7 -> 0 -> 8
  * Explanation: 342 + 465 = 807.
  */
+import leetcode.ListNode;
+
 public class AddTwoNumbers {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

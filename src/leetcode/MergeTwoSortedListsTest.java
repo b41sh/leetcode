@@ -1,23 +1,23 @@
-package leetcode.addTwoNumbers;
+package leetcode.mergeTwoSortedLists;
 
 import org.junit.Assert;
 import org.junit.Test;
+
 import leetcode.ListNode;
 
 /**
- * Test for 02. Add Two Numbers
+ * Test for 21. Merge Two Sorted Lists
  */
-public class AddTwoNumbersTest {
-
+public class MergeTwoSortedListsTest {
     @Test
     public void test() {
 
-        System.out.println("AddTwoNumbersTest");
+        System.out.println("MergeTwoSortedListsTest");
 
-        AddTwoNumbers solution = new AddTwoNumbers();
+        MergeTwoSortedLists solution = new MergeTwoSortedLists();
 
-        int[] l1 = new int[] {2, 4, 3};
-        int[] l2 = new int[] {5, 6, 4};
+        int[] l1 = new int[] {2, 3, 8};
+        int[] l2 = new int[] {5, 6, 7};
 
         ListNode node1 = null;
         ListNode node2 = null;
@@ -39,9 +39,11 @@ public class AddTwoNumbersTest {
             lastNode2 = node2;
         }
 
-        node3 = solution.addTwoNumbers(node1, node2);
+        //node3 = solution.mergeTwoLists(node1, node2);
+        node3 = solution.mergeTwoLists(node1, null);
+        System.out.println(node3);
         System.out.println(node3.val);
 
-        Assert.assertTrue(new Integer(node3.val).equals(7));
+        Assert.assertTrue(new Integer(node3.val).equals(2));
     }
 }
