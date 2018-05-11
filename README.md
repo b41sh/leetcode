@@ -10,11 +10,13 @@ LeetCode Solutions
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./src/leetcode/ReverseNodesInKgroup.java)|[Hard]
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./src/leetcode/SwapNodesInPairs.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Java](./src/leetcode/MergeKSortedLists.java)|Hard|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](./src/leetcode/GenerateParentheses.java)|Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [Java](./src/leetcode/MergeTwoSortedLists.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Java](./src/leetcode/ValidParentheses.java)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./src/leetcode/RemoveNthNodeFromEndOfList.java)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [Java](./src/leetcode/FourSum.java)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](./src/leetcode/LetterCombinations.java)|Medium|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest)| [Java](./src/leetcode/ThreeSumClosest.java)|Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [Java](./src/leetcode/ThreeSum.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [Java](./src/leetcode/LongestCommonPrefix.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./src/leetcode/RomanToInt.java)|Easy|
