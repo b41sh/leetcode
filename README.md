@@ -4,6 +4,9 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Java](./src/leetcode/NextPermutation.java)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./src/leetcode/SubstringWithConcatenationOfAllWords.java)|Hard|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Java](./src/leetcode/DivideTwoIntegers.java)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./src/leetcode/ImplementStrStr.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./src/leetcode/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./src/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy|
