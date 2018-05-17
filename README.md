@@ -4,7 +4,9 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)| [Java](./src/leetcode/SearchForARange.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./src/leetcode/SearchInRotatedSortedArray.java)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Java](./src/leetcode/LongestValidParentheses.java)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Java](./src/leetcode/NextPermutation.java)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./src/leetcode/SubstringWithConcatenationOfAllWords.java)|Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Java](./src/leetcode/DivideTwoIntegers.java)|Medium|
