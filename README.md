@@ -4,6 +4,10 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|38|[Count and Say](https://leetcode.com/problems/count-and-say)| [Java](./src/leetcode/CountAndSay.java)|Easy|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [Java](./src/leetcode/SudokuSolver.java)|Hard|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [Java](./src/leetcode/ValidSudoku.java)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)| [Java](./src/leetcode/SearchInsertPosition.java)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)| [Java](./src/leetcode/SearchForARange.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./src/leetcode/SearchInRotatedSortedArray.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Java](./src/leetcode/LongestValidParentheses.java)|Hard|
