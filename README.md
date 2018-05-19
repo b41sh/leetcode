@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)| [Java](./src/leetcode/CombinationSum.java)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum)| [Java](./src/leetcode/CombinationSum.java)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)| [Java](./src/leetcode/CountAndSay.java)|Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver)| [Java](./src/leetcode/SudokuSolver.java)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [Java](./src/leetcode/ValidSudoku.java)|Medium|
