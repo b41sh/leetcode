@@ -6,8 +6,7 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings)| [Java](./src/leetcode/MultiplyStrings.java)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)| [Java](./src/leetcode/TrappingRainWater.java)|Hard|
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)| [Java](./src/leetcode/
-FirstMissingPositive.java)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive)| [Java](./src/leetcode/FirstMissingPositive.java)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii)| [Java](./src/leetcode/CombinationSum.java)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum)| [Java](./src/leetcode/CombinationSum.java)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say)| [Java](./src/leetcode/CountAndSay.java)|Easy|
