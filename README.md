@@ -4,8 +4,9 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./src/leetcode/RotateList.java)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)| [Java](./src/leetcode/PermutationSequence.java)|Medium|
-|59|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix-ii)| [Java](./src/leetcode/SpiralMatrix.java)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)| [Java](./src/leetcode/SpiralMatrix.java)|Medium|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)| [Java](./src/leetcode/LengthOfLastWord.java)|Medium|
 |57|[Insert Interval](https://leetcode.com/problems/insert-intervals)| [Java](./src/leetcode/Intervals.java)|Hard|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals)| [Java](./src/leetcode/Intervals.java)|Medium|
