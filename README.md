@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./src/leetcode/RotateList.java)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)| [Java](./src/leetcode/PermutationSequence.java)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii)| [Java](./src/leetcode/SpiralMatrix.java)|Medium|
