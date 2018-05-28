@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](./src/leetcode/PlusOne.java)|Easy|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [Java](./src/leetcode/RotateList.java)|Medium|
