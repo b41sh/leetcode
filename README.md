@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./src/leetcode/ClimbingStairs.java)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./src/leetcode/AddBinary.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](./src/leetcode/PlusOne.java)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
