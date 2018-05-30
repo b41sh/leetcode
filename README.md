@@ -4,7 +4,9 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [Java](./src/leetcode/SimplifyPath.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./src/leetcode/ClimbingStairs.java)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Java](./src/leetcode/Sqrtx.java)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./src/leetcode/AddBinary.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](./src/leetcode/PlusOne.java)|Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
