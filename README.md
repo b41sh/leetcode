@@ -7,8 +7,10 @@ LeetCode Solutions
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [Java](./src/leetcode/SimplifyPath.java)|Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [Java](./src/leetcode/ClimbingStairs.java)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx)| [Java](./src/leetcode/Sqrtx.java)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification)| [Java](./src/leetcode/TextJustification.java)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./src/leetcode/AddBinary.java)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [Java](./src/leetcode/PlusOne.java)|Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number)| [Java](./src/leetcode/ValidNumber.java)|Hard|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| [Java](./src/leetcode/UniquePaths.java)|Medium|
