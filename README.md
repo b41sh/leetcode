@@ -25,6 +25,7 @@ LeetCode Solutions
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray)| [Java](./src/leetcode/MaximumSubarray.java)|Easy|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii)| [Java](./src/leetcode/NQueens.java)|Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens)| [Java](./src/leetcode/NQueens.java)|Hard|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n)| [Java](./src/leetcode/Powx.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams)| [Java](./src/leetcode/GroupAnagrams.java)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image)| [Java](./src/leetcode/RotateImage.java)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii)| [Java](./src/leetcode/Permutations.java)|Medium|
