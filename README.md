@@ -65,6 +65,7 @@ LeetCode Solutions
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](./src/leetcode/RomanToInt.java)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [Java](./src/leetcode/IntegerToRoman.java)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./src/leetcode/MaxArea.java)|Medium|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)| [Java](./src/leetcode/dp/RegularExpressionMatching.java)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [Java](./src/leetcode/IsPalindrome.java)|Easy|
 |8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](./src/leetcode/StringToInteger.java)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](./src/leetcode/Reverse.java)|Easy|
