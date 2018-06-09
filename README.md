@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Java](./src/leetcode/tp/RemoveDuplicatesFromSortedArray.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [Java](./src/leetcode/backtracking/WordSearch.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [Java](./src/leetcode/backtracking/Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| [Java](./src/leetcode/backtracking/Combinations.java)|Medium|
@@ -55,7 +56,7 @@ LeetCode Solutions
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [Java](./src/leetcode/DivideTwoIntegers.java)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./src/leetcode/ImplementStrStr.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./src/leetcode/RemoveElement.java)|Easy|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./src/leetcode/RemoveDuplicatesFromSortedArray.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./src/leetcode/tp/RemoveDuplicatesFromSortedArray.java)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./src/leetcode/ReverseNodesInKgroup.java)|[Hard]
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./src/leetcode/SwapNodesInPairs.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Java](./src/leetcode/MergeKSortedLists.java)|Hard|

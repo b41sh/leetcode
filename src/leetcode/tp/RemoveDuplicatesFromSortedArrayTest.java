@@ -1,10 +1,11 @@
-package leetcode.removeDuplicatesFromSortedArray;
+package leetcode.tp.removeDuplicatesFromSortedArray;
 
 import org.junit.Assert;
 import org.junit.Test;
 
 /**
  * Test for 26. Remove Duplicates from Sorted Array
+ * Test for 80. Remove Duplicates from Sorted Array II
  */
 public class RemoveDuplicatesFromSortedArrayTest {
     @Test
@@ -20,6 +21,14 @@ public class RemoveDuplicatesFromSortedArrayTest {
         }
 
         int retNums = solution.removeDuplicates(nums);
+        System.out.println("retNums val=" + retNums);
+        for (int i = 0; i < retNums; i++) {
+            System.out.println("after nums=" + nums[i]);
+        }
+
+
+        nums = new int[] {1,1,1,2,2,3};
+        retNums = solution.removeDuplicatesII(nums);
         System.out.println("retNums val=" + retNums);
         for (int i = 0; i < retNums; i++) {
             System.out.println("after nums=" + nums[i]);
