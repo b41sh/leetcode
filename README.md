@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)| [Java](./src/leetcode/bs/SearchInRotatedSortedArray.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Java](./src/leetcode/tp/RemoveDuplicatesFromSortedArray.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [Java](./src/leetcode/backtracking/WordSearch.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [Java](./src/leetcode/backtracking/Subsets.java)|Medium|
@@ -49,7 +50,7 @@ LeetCode Solutions
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku)| [Java](./src/leetcode/ValidSudoku.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position)| [Java](./src/leetcode/SearchInsertPosition.java)|Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range)| [Java](./src/leetcode/SearchForARange.java)|Medium|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./src/leetcode/SearchInRotatedSortedArray.java)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](./src/leetcode/bs/SearchInRotatedSortedArray.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [Java](./src/leetcode/LongestValidParentheses.java)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [Java](./src/leetcode/NextPermutation.java)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./src/leetcode/SubstringWithConcatenationOfAllWords.java)|Hard|

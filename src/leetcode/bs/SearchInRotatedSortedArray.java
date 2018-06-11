@@ -1,8 +1,12 @@
-package leetcode.searchInRotatedSortedArray;
+package leetcode.bs.searchInRotatedSortedArray;
 
 // Source : https://leetcode.com/problems/search-in-rotated-sorted-array/
 // Author : Shen Bai
 // Date   : 2018-05-16
+
+// Source : https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+// Author : Shen Bai
+// Date   : 2018-06-11
 
 /**
  * Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
@@ -61,5 +65,58 @@ public class SearchInRotatedSortedArray {
         }
 
         return ret;
+    }
+
+    public boolean searchII(int[] nums, int target) {
+
+        int start = 0;
+        int end = nums.length - 1;
+
+        return _searchII(nums, target, start, end);
+    }
+
+    private boolean _searchII(int[] nums, int target, int start, int end) {
+
+        int mid = 0;
+        int sNum = 0;
+        int eNum = 0;
+        int mNum = 0;
+        boolean ret1 = false;
+        boolean ret2 = false;
+        while (start <= end) {
+            mid = start + (end - start) / 2;
+            sNum = nums[start];
+            mNum = nums[mid];
+            eNum = nums[end];
+            if (sNum == target || mNum == target || eNum == target) {
+                return true;
+            }
+            if (start == end || (start + 1) == end) {
+                return false;
+            }
+            if (mNum > sNum) {
+                if (mNum > target && sNum < target) {
+                    end = mid - 1;
+                } else {
+                    start = mid + 1;
+                }
+            } else if (mNum < eNum) {
+                if (mNum < target && sNum > target) {
+                    start = mid + 1;
+                } else {
+                    end = mid - 1;
+                }
+            } else {
+                ret1 = _searchII(nums, target, start + 1, mid - 1);
+                ret2 = _searchII(nums, target, mid + 1, end - 1);
+                if (ret1 || ret2) {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+        }
+
+        return false;
     }
 }
