@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)| [Java](./src/leetcode/list/RemoveDuplicatesFromSortedList.java)|Easy|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)| [Java](./src/leetcode/list/RemoveDuplicatesFromSortedList.java)|Medium|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)| [Java](./src/leetcode/bs/SearchInRotatedSortedArray.java)|Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Java](./src/leetcode/tp/RemoveDuplicatesFromSortedArray.java)|Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [Java](./src/leetcode/backtracking/WordSearch.java)|Medium|
