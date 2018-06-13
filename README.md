@@ -11,6 +11,7 @@ LeetCode Solutions
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [Java](./src/leetcode/backtracking/WordSearch.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)| [Java](./src/leetcode/backtracking/Subsets.java)|Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| [Java](./src/leetcode/backtracking/Combinations.java)|Medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring)| [Java](./src/leetcode/tp/MinimumWindowSubstring.java)|Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [Java](./src/leetcode/tp/SortColors.java)|Medium|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix)| [Java](./src/leetcode/bs/SearchA2DMatrix.java)|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes)| [Java](./src/leetcode/array/SetMatrixZeroes.java)|Medium|
