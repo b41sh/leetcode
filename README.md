@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|86|[Partition List](https://leetcode.com/problems/partition-list)| [Java](./src/leetcode/list/PartitionList.java)|Medium|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)| [Java](./src/leetcode/stack/LargestRectangleInHistogram.java)|Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)| [Java](./src/leetcode/list/RemoveDuplicatesFromSortedList.java)|Easy|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)| [Java](./src/leetcode/list/RemoveDuplicatesFromSortedList.java)|Medium|
