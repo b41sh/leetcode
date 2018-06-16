@@ -22,5 +22,10 @@ public class SubsetsTest {
         ret = solution.subsets(nums);
         System.out.println(ret);
 
+        System.out.println("==============");
+
+        nums = new int[]{1, 2, 2};
+        ret = solution.subsetsWithDup(nums);
+        System.out.println(ret);
     }
 }
