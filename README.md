@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways)| [Java](./src/leetcode/dp/DecodeWays.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)| [Java](./src/leetcode/backtracking/Subsets.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Java](./src/leetcode/array/MergeSortedArray.java)|Easy|
 |86|[Partition List](https://leetcode.com/problems/partition-list)| [Java](./src/leetcode/list/PartitionList.java)|Medium|
