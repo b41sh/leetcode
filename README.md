@@ -12,6 +12,7 @@ LeetCode Solutions
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii)| [Java](./src/leetcode/list/ReverseLinkedList.java)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways)| [Java](./src/leetcode/dp/DecodeWays.java)|Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)| [Java](./src/leetcode/backtracking/Subsets.java)|Medium|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)| [Java](./src/leetcode/backtracking/GrayCode.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Java](./src/leetcode/array/MergeSortedArray.java)|Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string)| [java](./src/leetcode/dp/ScrambleString.java)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list)| [Java](./src/leetcode/list/PartitionList.java)|Medium|
