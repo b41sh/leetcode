@@ -5,6 +5,7 @@ LeetCode Solutions
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Java](./src/leetcode/tree/SameTree.java)|Easy|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)| [Java](./src/leetcode/tree/ValidateBinarySearchTree.java)|Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| [Java](./src/leetcode/dp/InterleavingString.java)|Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees)| [Java](./src/leetcode/tree/UniqueBinarySearchTrees.java)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii)| [Java](./src/leetcode/tree/UniqueBinarySearchTrees.java)|Medium|
