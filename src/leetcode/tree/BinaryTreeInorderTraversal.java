@@ -57,29 +57,33 @@ public class BinaryTreeInorderTraversal {
         list.add(node.val);
         _inorderTraversal(node.right, list);
     }
-}
 
-/**
-        TreeNode node = root;
-        while (node != null) {
-            TreeNode left = node.left;
-            TreeNode right = node.right;
-            if (left != null) {
-                stack.push(node);
-                node = left;
-            //} else if (right != null) {
-            }
+    // Morris Traversal
+    public List<Integer> inorderTraversal2(TreeNode root) {
 
-            ret.add(node.val);
-                stack.push(node);
-                node = right;
+        List<Integer> list = new ArrayList<Integer>();
+
+        TreeNode cur = root;
+        TreeNode prev = null;
+        while (cur != null) {
+            if (cur.left == null) {
+                list.add(cur.val);
+                cur = cur.right;
             } else {
-                ret.add(node.val);
-                if (stack.empty()) {
-                    node = null;
+                prev = cur.left;
+                while (prev.right != null && prev.right != cur) {
+                    prev = prev.right;
+                }
+                if (prev.right == null) {
+                    prev.right = cur;
+                    cur = cur.left;
                 } else {
-                    node = stack.pop();
+                    prev.right = null;
+                    list.add(cur.val);
+                    cur = cur.right;
                 }
             }
         }
-*/
+        return list;
+    }
+}

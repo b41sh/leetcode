@@ -31,7 +31,7 @@ public class BinaryTreeInorderTraversalTest {
         root.right = new TreeNode(3);
         root.left.left = new TreeNode(4);
         root.left.right = new TreeNode(5);
-        ret = solution.inorderTraversal(root);
+        ret = solution.inorderTraversal2(root);
         System.out.println(ret);
 
         /*
@@ -45,7 +45,22 @@ public class BinaryTreeInorderTraversalTest {
         root1.right = new TreeNode(2);
         root1.right.left = new TreeNode(3);
 
-        ret = solution.inorderTraversal(root1);
+        ret = solution.inorderTraversal2(root1);
         System.out.println(ret);
+
+
+        TreeNode root2 = new TreeNode(6);
+        root2.left = new TreeNode(2);
+        root2.left.left = new TreeNode(1);
+        root2.left.right = new TreeNode(4);
+        root2.left.right.left = new TreeNode(3);
+        root2.left.right.right = new TreeNode(5);
+        root2.right = new TreeNode(7);
+        root2.right.right = new TreeNode(9);
+        root2.right.right.left = new TreeNode(8);
+
+        ret = solution.inorderTraversal2(root2);
+        System.out.println(ret);
+
     }
 }
