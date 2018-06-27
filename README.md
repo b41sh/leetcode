@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)| [Java](./src/leetcode/tree/MaximumDepthOfBinaryTree.java)|Easy|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)| [Java](./src/leetcode/tree/BinaryTreeZigzagLevelOrderTraversal.java)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Java](./src/leetcode/tree/BinaryTreeLevelOrderTraversal.java)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Java](./src/leetcode/tree/SymmetricTree.java)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [Java](./src/leetcode/tree/SameTree.java)|Easy|
