@@ -3,6 +3,8 @@ package leetcode.tree.binaryTreeLevelOrderTraversal;
 // Source : https://leetcode.com/problems/binary-tree-level-order-traversal/
 // Author : Shen Bai
 // Date   : 2018-06-26
+// Source : https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+// Date   : 2018-06-30
 
 import java.util.ArrayList;
 import java.util.List;
@@ -51,6 +53,35 @@ public class BinaryTreeLevelOrderTraversal {
                 }
             }
             ret.add(list);
+        }
+
+        return ret;
+    }
+
+
+    public List<List<Integer>> levelOrderBottom(TreeNode root) {
+
+        List<List<Integer>> ret = new ArrayList<List<Integer>>();
+        if (root == null) {
+            return ret;
+        }
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+        queue.add(root);
+        while (queue.size() > 0) {
+            int size = queue.size();
+            List<Integer> list = new ArrayList<Integer>();
+            while (size > 0) {
+                size--;
+                TreeNode node = queue.poll();
+                list.add(node.val);
+                if (node.left != null) {
+                    queue.add(node.left);
+                }
+                if (node.right != null) {
+                    queue.add(node.right);
+                }
+            }
+            ret.add(0, list);
         }
 
         return ret;

@@ -8,6 +8,7 @@ import leetcode.TreeNode;
 
 /**
  * Test for 102. Binary Tree Level Order Traversal
+ * Test for 107. Binary Tree Level Order Traversal II
  */
 public class BinaryTreeLevelOrderTraversalTest {
 
@@ -33,6 +34,8 @@ public class BinaryTreeLevelOrderTraversalTest {
 
         List<List<Integer>> ret = solution.levelOrder(root);
         System.out.println(ret);
+        List<List<Integer>> ret1 = solution.levelOrderBottom(root);
+        System.out.println(ret1);
 
     }
 }
