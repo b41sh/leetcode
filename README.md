@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)| [Java](./src/leetcode/tree/BalancedBinaryTree.java)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)| [Java](./src/leetcode/tree/ConvertSortedListToBinarySearchTree.java)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)| [Java](./src/leetcode/tree/ConvertSortedArrayToBinarySearchTree.java)|Easy|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)| [Java](./src/leetcode/tree/BinaryTreeLevelOrderTraversal.java)|Easy|
