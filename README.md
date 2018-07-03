@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|112|[Path Sum](https://leetcode.com/problems/path-sum)| [Java](./src/leetcode/tree/PathSum.java)|Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree)| [Java](./src/leetcode/tree/BalancedBinaryTree.java)|Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)| [Java](./src/leetcode/tree/ConvertSortedListToBinarySearchTree.java)|Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)| [Java](./src/leetcode/tree/ConvertSortedArrayToBinarySearchTree.java)|Easy|
