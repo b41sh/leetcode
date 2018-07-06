@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)| [Java](./src/leetcode/tree/FlattenBinaryTreeToLinkedList.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)| [Java](./src/leetcode/tree/PathSum.java)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)| [Java](./src/leetcode/tree/PathSum.java)|Easy|
