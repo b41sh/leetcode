@@ -6,6 +6,8 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
+|117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)| [Java](./src/leetcode/tree/PopulatingNextRightPointersInEachNode.java)|Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)| [Java](./src/leetcode/tree/PopulatingNextRightPointersInEachNode.java)|Medium|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)| [Java](./src/leetcode/tree/FlattenBinaryTreeToLinkedList.java)|Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii)| [Java](./src/leetcode/tree/PathSum.java)|Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum)| [Java](./src/leetcode/tree/PathSum.java)|Easy|
@@ -91,7 +93,7 @@ LeetCode Solutions
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Java](./src/leetcode/ImplementStrStr.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./src/leetcode/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./src/leetcode/tp/RemoveDuplicatesFromSortedArray.java)|Easy|
-|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./src/leetcode/ReverseNodesInKgroup.java)|[Hard]
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Java](./src/leetcode/ReverseNodesInKgroup.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [Java](./src/leetcode/SwapNodesInPairs.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [Java](./src/leetcode/MergeKSortedLists.java)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [Java](./src/leetcode/GenerateParentheses.java)|Medium|
