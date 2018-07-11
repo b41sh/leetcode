@@ -4,6 +4,10 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Hard|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle)| [java](./src/leetcode/dp/Triangle.java)|Medium|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)| [Java](./src/leetcode/tree/PopulatingNextRightPointersInEachNode.java)|Medium|
