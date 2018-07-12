@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Java](./src/leetcode/tp/ValidPalindrome.java)|Easy|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
