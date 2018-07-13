@@ -7,7 +7,7 @@ import java.util.List;
 import leetcode.TreeNode;
 
 /**
- * Test for 92. Reverse Linked List II
+ * Test for 94 Binary Tree Inorder Traversal
  */
 public class BinaryTreeInorderTraversalTest {
 
