@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Java](./src/leetcode/tree/SumRootToLeafNumbers.java)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Java](./src/leetcode/tp/ValidPalindrome.java)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)| [Java](./src/leetcode/tree/BinaryTreeMaximumPathSum.java)|Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Hard|
