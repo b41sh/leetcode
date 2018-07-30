@@ -6,6 +6,8 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [Java](./src/leetcode/bit/SingleNumber.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [Java](./src/leetcode/bit/SingleNumber.java)|Easy|
+|135|[Candy](https://leetcode.com/problems/candy)| [java](./src/leetcode/greedy/Candy.java)|Meidum|
+|134|[Gas Station](https://leetcode.com/problems/gas-station)| [java](./src/leetcode/greedy/GasStation.java)|Meidum|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [Java](./src/leetcode/dp/PalindromePartitioningII.java)|Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [Java](./src/leetcode/backtracking/PalindromePartitioning.java)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Java](./src/leetcode/tree/SumRootToLeafNumbers.java)|Medium|
