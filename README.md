@@ -4,20 +4,22 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [Java](./src/leetcode/bit/SingleNumber.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [Java](./src/leetcode/bit/SingleNumber.java)|Easy|
-|135|[Candy](https://leetcode.com/problems/candy)| [java](./src/leetcode/greedy/Candy.java)|Meidum|
-|134|[Gas Station](https://leetcode.com/problems/gas-station)| [java](./src/leetcode/greedy/GasStation.java)|Meidum|
+|135|[Candy](https://leetcode.com/problems/candy)| [Java](./src/leetcode/greedy/Candy.java)|Meidum|
+|134|[Gas Station](https://leetcode.com/problems/gas-station)| [Java](./src/leetcode/greedy/GasStation.java)|Meidum|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [Java](./src/leetcode/dp/PalindromePartitioningII.java)|Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [Java](./src/leetcode/backtracking/PalindromePartitioning.java)|Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Java](./src/leetcode/tree/SumRootToLeafNumbers.java)|Medium|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)| [Java](./src/leetcode/bfs/WordLadder.java)|Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)| [Java](./src/leetcode/tp/ValidPalindrome.java)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)| [Java](./src/leetcode/tree/BinaryTreeMaximumPathSum.java)|Hard|
-|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Hard|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| [java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
-|120|[Triangle](https://leetcode.com/problems/triangle)| [java](./src/leetcode/dp/Triangle.java)|Medium|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)| [Java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Hard|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)| [Java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)| [Java](./src/leetcode/dp/BestTimeToBuyAndSellStock.java)|Easy|
+|120|[Triangle](https://leetcode.com/problems/triangle)| [Java](./src/leetcode/dp/Triangle.java)|Medium|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)| [Java](./src/leetcode/array/PascalsTriangle.java)|Easy|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)| [Java](./src/leetcode/tree/PopulatingNextRightPointersInEachNode.java)|Medium|
@@ -49,7 +51,7 @@ LeetCode Solutions
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii)| [Java](./src/leetcode/backtracking/Subsets.java)|Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| [Java](./src/leetcode/backtracking/GrayCode.java)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)| [Java](./src/leetcode/array/MergeSortedArray.java)|Easy|
-|87|[Scramble String](https://leetcode.com/problems/scramble-string)| [java](./src/leetcode/dp/ScrambleString.java)|Hard|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string)| [Java](./src/leetcode/dp/ScrambleString.java)|Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list)| [Java](./src/leetcode/list/PartitionList.java)|Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle)| [Java](./src/leetcode/stack/MaximalRectangle.java)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)| [Java](./src/leetcode/stack/LargestRectangleInHistogram.java)|Hard|
