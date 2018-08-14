@@ -4,7 +4,9 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [Java](./src/leetcode/list/ReorderList.java]|Medium|
+|148|[Sort List](https://leetcode.com/problems/sort-list/)| [Java](./src/leetcode/list/SortList.java)|Medium|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [Java](./src/leetcode/list/InsertionSortList.java)|Medium|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [Java](./src/leetcode/list/ReorderList.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [Java](./src/leetcode/bit/SingleNumber.java)|Medium|
