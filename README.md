@@ -6,6 +6,8 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [Java](./src/leetcode/list/SortList.java)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [Java](./src/leetcode/list/InsertionSortList.java)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)| [Java](./src/leetcode/tree/BinaryTreePostorderTraversal.java)|Hard|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)| [Java](./src/leetcode/tree/BinaryTreePreorderTraversal.java)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [Java](./src/leetcode/list/ReorderList.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Easy|
