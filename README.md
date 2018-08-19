@@ -4,6 +4,8 @@ LeetCode Solutions
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)| [Java](./src/leetcode/array/FairCandySwap.java)|Easy|
+|886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition)| [Java](./src/leetcode/graph/PossibleBipartition.java)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [Java](./src/leetcode/list/SortList.java)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [Java](./src/leetcode/list/InsertionSortList.java)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)| [Java](./src/leetcode/tree/BinaryTreePostorderTraversal.java)|Hard|
