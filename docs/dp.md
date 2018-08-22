@@ -30,3 +30,16 @@ dp[i] = Math.min(dp[i - 1], prices[i]);
 第二个可以买卖多次，转为贪心，只要价格比前一个节点大就进行买进卖出，累加多次买卖的结果
 
 
+## [221. Maximal Square](https://leetcode.com/problems/maximal-square)
+
+思路：每一个节点的正方形大小由它上边、左边和左上边正方形的最小值决定，`dp[i][j]=min(dp[i-1][j-1],dp[i-1][j],dp[i][j-1)`
+
+### 第一版
+
+`int[]w` 记录宽度，`int[]h` 记录高度，如果`matrix[i][j]`为1，取`h[i]`、`w[j]`、`dp[i-1][j-1]`的最小值，加一为`dp[i][j]`的宽高，否则`dp[i][j]`为0，然后更新`h[j]`和`w[i]`，遍历一遍后得出最大值
+
+### 第二版
+
+* 额外记录宽度和高度是多余的，`dp[i][j]`表示的是宽高的最小值，直接比较宽高即可
+* char转int直接减去`'0'`即可，`int num = matrix[i][j] - '0'`
+
