@@ -6,9 +6,12 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)| [Java](./src/leetcode/array/FairCandySwap.java)|Easy|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition)| [Java](./src/leetcode/graph/PossibleBipartition.java)|Medium|
+|223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [Java](./src/leetcode/math/RectangleArea.java)|Medium|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](./src/leetcode/tree/CountCompleteTreeNodes.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square)| [Java](./src/leetcode/dp/MaximalSquare.java)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [Java](./src/leetcode/list/SortList.java)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| [Java](./src/leetcode/list/InsertionSortList.java)|Medium|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [Java](./src/leetcode/design/LRUCache.java)|Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)| [Java](./src/leetcode/tree/BinaryTreePostorderTraversal.java)|Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)| [Java](./src/leetcode/tree/BinaryTreePreorderTraversal.java)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [Java](./src/leetcode/list/ReorderList.java)|Medium|
