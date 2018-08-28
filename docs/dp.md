@@ -43,3 +43,17 @@ dp[i] = Math.min(dp[i - 1], prices[i]);
 * 额外记录宽度和高度是多余的，`dp[i][j]`表示的是宽高的最小值，直接比较宽高即可
 * char转int直接减去`'0'`即可，`int num = matrix[i][j] - '0'`
 
+## [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
+
+新出现的值可能是负数，所以之前的结果正数和负数都要保留，用两个数组分别记录截止当前位置相乘正数的最大值和负数的最小值
+
+```java
+int n = nums[i];
+int a = nums[i] * dp1[i - 1];
+int b = nums[i] * dp2[i - 1];
+int max = Math.max(Math.max(a, b), n);
+int min = Math.min(Math.min(a, b), n);
+dp1[i] = (max > 0) ? max : 0;
+dp2[i] = (min < 0) ? min : 0;
+```
+

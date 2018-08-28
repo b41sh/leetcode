@@ -13,6 +13,7 @@ LeetCode Solutions
 |202|[Happy Number](https://leetcode.com/problems/happy-number)| [Java](./src/leetcode/math/HappyNumber.java)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)| [Java](./src/leetcode/dp/MaximumProductSubarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)| [Java](./src/leetcode/string/ReverseWordsInAString.java)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)| [Java](./src/leetcode/stack/EvaluateReversePolishNotation.java)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| [Java](./src/leetcode/list/SortList.java)|Medium|
