@@ -57,3 +57,11 @@ dp1[i] = (max > 0) ? max : 0;
 dp2[i] = (min < 0) ? min : 0;
 ```
 
+## [198. House Robber](https://leetcode.com/problems/house-robber/)
+## [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
+
+```java
+dp[i] = Math.max(nums[i - 2] + dp[i - 2], dp[i - 1]);
+```
+
+如果房子是圈，遍历两遍，第一遍不包括第一个房子，第二遍不包括最后一个房子，然后取最大值
