@@ -15,6 +15,7 @@ LeetCode Solutions
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)| [Java](./src/leetcode/bs/FindMinimumInRotatedSortedArray.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)| [Java](./src/leetcode/dp/MaximumProductSubarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)| [Java](./src/leetcode/string/ReverseWordsInAString.java)|Medium|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)| [Java](./src/leetcode/stack/EvaluateReversePolishNotation.java)|Medium|
