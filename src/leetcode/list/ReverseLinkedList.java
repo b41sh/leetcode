@@ -1,8 +1,10 @@
 package leetcode.list.reverseLinkedList;
 
+// Source : https://leetcode.com/problems/reverse-linked-list/
 // Source : https://leetcode.com/problems/reverse-linked-list-ii/
 // Author : Shen Bai
 // Date   : 2018-06-19
+// Date   : 2018-09-03
 
 import leetcode.ListNode;
 
@@ -60,6 +62,17 @@ public class ReverseLinkedList {
             i++;
         }
 
+        return dummyHead.next;
+    }
+
+    public ListNode reverseList(ListNode head) {
+        ListNode dummyHead = new ListNode(0);
+        while (head != null) {
+            ListNode next = head.next;
+            head.next = dummyHead.next;
+            dummyHead.next = head;
+            head = next;
+        }
         return dummyHead.next;
     }
 }

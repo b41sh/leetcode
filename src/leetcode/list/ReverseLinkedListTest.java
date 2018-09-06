@@ -6,6 +6,7 @@ import leetcode.ListNode;
 
 /**
  * Test for 92. Reverse Linked List II
+ * Test for 206. Reverse Linked List
  */
 public class ReverseLinkedListTest {
 
@@ -37,5 +38,20 @@ public class ReverseLinkedListTest {
             System.out.print(ret.val + " -> ");
             ret = ret.next;
         }
+        System.out.println("");
+
+
+        ListNode node = new ListNode(1);
+        node.next = new ListNode(2);
+        node.next.next = new ListNode(3);
+        node.next.next.next = new ListNode(4);
+        node.next.next.next.next = new ListNode(5);
+
+        ListNode retNode = solution.reverseList(node);
+        while (retNode != null) {
+            System.out.print(retNode.val + " -> ");
+            retNode = retNode.next;
+        }
+        System.out.println("");
     }
 }

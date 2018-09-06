@@ -10,11 +10,13 @@ LeetCode Solutions
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](./src/leetcode/tree/CountCompleteTreeNodes.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square)| [Java](./src/leetcode/dp/MaximalSquare.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [Java](./src/leetcode/list/ReverseLinkedList.java)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)| [Java](./src/leetcode/list/RemoveLinkedListElements.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)| [Java](./src/leetcode/math/HappyNumber.java)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)| [Java](./src/leetcode/list/IntersectionOfTwoLinkedLists.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)| [Java](./src/leetcode/bs/FindMinimumInRotatedSortedArray.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)| [Java](./src/leetcode/dp/MaximumProductSubarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)| [Java](./src/leetcode/string/ReverseWordsInAString.java)|Medium|
@@ -27,6 +29,7 @@ LeetCode Solutions
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| [Java](./src/leetcode/list/ReorderList.java)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Java](./src/leetcode/list/LinkedListCycle.java)|Easy|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer)| [Java](./src/leetcode/list/CopyListWithRandomPointer.java)|Medium|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| [Java](./src/leetcode/bit/SingleNumber.java)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [Java](./src/leetcode/bit/SingleNumber.java)|Easy|
 |135|[Candy](https://leetcode.com/problems/candy)| [Java](./src/leetcode/greedy/Candy.java)|Meidum|
