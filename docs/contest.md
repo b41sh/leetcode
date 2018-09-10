@@ -55,3 +55,24 @@
 ### [899. Orderly Queue](https://leetcode.com/contest/weekly-contest-100/problems/orderly-queue/)
 
 思路：如果K为1，则相当于逆序，依次选择所有逆序组合比较，选出最小的一个。如果K大于等于2，则可以用冒泡排序排出最小的数组
+
+
+## [Weekly Contest 101](https://leetcode.com/contest/weekly-contest-101)
+
+### [900. RLE Iterator](https://leetcode.com/contest/weekly-contest-101/problems/rle-iterator/)
+
+思路：数组从左向右遍历，只处理偶数位，每次记录下当前位置，供下一次遍历时使用
+
+### [901. Online Stock Span](https://leetcode.com/contest/weekly-contest-101/problems/online-stock-span/)
+
+思路：两个数组分别记录价格和个数，改为栈可以优化空间复杂度
+
+### [902. Numbers At Most N Given Digit Set](https://leetcode.com/contest/weekly-contest-101/problems/numbers-at-most-n-given-digit-set/)
+
+思路：每一位的个数为字符串个数的N次方，遍历计算出每一位的个数，0到N-1位都符合条件，直接累计，N位用数组串数组中的元素依次比对，符合条件的累加
+
+### [903. Valid Permutations for DI Sequence](https://leetcode.com/contest/weekly-contest-101/problems/valid-permutations-for-di-sequence/)
+
+思路1：深度优先遍历，结果超时
+
+思路2：dp
