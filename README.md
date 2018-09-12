@@ -16,6 +16,7 @@ LeetCode Solutions
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)| [Java](./src/leetcode/bs/FindPeakElement.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)| [Java](./src/leetcode/list/IntersectionOfTwoLinkedLists.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)| [Java](./src/leetcode/bs/FindMinimumInRotatedSortedArray.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)| [Java](./src/leetcode/dp/MaximumProductSubarray.java)|Medium|
