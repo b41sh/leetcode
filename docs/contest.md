@@ -76,3 +76,23 @@
 思路1：深度优先遍历，结果超时
 
 思路2：dp
+
+
+
+## [Weekly Contest 105](https://leetcode.com/contest/weekly-contest-105)
+
+### [918. Maximum Sum Circular Subarray](https://leetcode.com/contest/weekly-contest-105/problems/maximum-sum-circular-subarray/)
+
+思路：普通的最大子字符串使用Kadane算法，环形最大字符串需要考虑最大值在两边的情况，算出连续字符串的最小值，再用总数减去这个值得到，剩余部分即为最大值。
+
+### [920. Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/)
+
+思路：dp[i][j]，长度为i，使用j首不同歌曲的播放列表
+
+```
+dp[i][j] = 
+// 添加一首新歌，已用j-1首，从(N-(j-1))中取
+dp[i - 1][j - 1] * (N - (j - 1))
+// 重复使用已存在的歌曲
+dp[i - 1][j] * max(j - K, 0)
+```
