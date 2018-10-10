@@ -16,6 +16,7 @@ LeetCode Solutions
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)| [Java](./src/leetcode/design/BSTIterator.java)|Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes)| [Java](./src/leetcode/math/FactorialTrailingZeroes.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number)| [Java](./src/leetcode/math/ExcelSheetColumnNumber.java)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element)| [Java](./src/leetcode/math/MajorityElement.java)|Easy|
