@@ -25,6 +25,7 @@ LeetCode Solutions
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)| [Java](./src/leetcode/string/CompareVersionNumbers.java)|Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element)| [Java](./src/leetcode/bs/FindPeakElement.java)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists)| [Java](./src/leetcode/list/IntersectionOfTwoLinkedLists.java)|Easy|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)| [Java](./src/leetcode/design/MinStack.java)|Easy|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)| [Java](./src/leetcode/bs/FindMinimumInRotatedSortedArray.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray)| [Java](./src/leetcode/dp/MaximumProductSubarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)| [Java](./src/leetcode/string/ReverseWordsInAString.java)|Medium|
