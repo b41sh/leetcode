@@ -1,8 +1,10 @@
 package leetcode.bs.findMinimumInRotatedSortedArray;
 
 // Source : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+// Source : https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 // Author : Shen Bai
 // Date   : 2018-08-31
+// Date   : 2018-10-14
 
 /**
  * Suppose an array sorted in ascending order is rotated at some pivot unknown to you beforehand.
@@ -34,20 +36,19 @@ public class FindMinimumInRotatedSortedArray {
         int beg = 0;
         int end = nums.length - 1;
         int mid = 0;
+
         while (beg < end) {
-            if (nums[beg] < nums[end]) {
-                break;
-            }
             mid = beg + (end - beg) / 2;
-            if (mid == beg || mid == end) {
-                break;
+            if (nums[beg] <= nums[mid] && nums[mid] <= nums[end]) {
+                return nums[beg];
             }
-            if (nums[mid] > nums[beg]) {
-                beg = mid;
-            } else {
+            if (nums[beg] > nums[mid]) {
                 end = mid;
+            } else if (nums[mid] > nums[end]) {
+                beg = mid + 1;
             }
         }
+
         return Math.min(nums[beg], nums[end]);
     }
 
@@ -62,19 +63,17 @@ public class FindMinimumInRotatedSortedArray {
         int mid = 0;
 
         while (beg < end) {
-            if (nums[beg] < nums[end]) {
-                break;
+            while (beg < end && nums[beg] == nums[end]) {
+                ++beg;
             }
             mid = beg + (end - beg) / 2;
-            if (mid == beg || mid == end) {
-                break;
-            } else if (nums[mid] == nums[beg] && nums[mid] == nums[end]) {
-                break;
+            if (nums[beg] <= nums[mid] && nums[mid] <= nums[end]) {
+                return nums[beg];
             }
-            if (nums[mid] >= nums[beg]) {
-                beg = mid;
-            } else {
+            if (nums[beg] > nums[mid]) {
                 end = mid;
+            } else if (nums[mid] > nums[end]) {
+                beg = mid + 1;
             }
         }
 
