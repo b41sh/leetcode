@@ -6,6 +6,7 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)| [Java](./src/leetcode/array/FairCandySwap.java)|Easy|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition)| [Java](./src/leetcode/graph/PossibleBipartition.java)|Medium|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./src/leetcode/tree/InvertBinaryTree.java)|Easy|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [Java](./src/leetcode/math/RectangleArea.java)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](./src/leetcode/tree/CountCompleteTreeNodes.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square)| [Java](./src/leetcode/dp/MaximalSquare.java)|Medium|
@@ -14,6 +15,7 @@ LeetCode Solutions
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./src/leetcode/string/IsomorphicStrings.java)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)| [Java](./src/leetcode/list/RemoveLinkedListElements.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)| [Java](./src/leetcode/math/HappyNumber.java)|Easy|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](./src/leetcode/tree/BinaryTreeRightSideView.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
