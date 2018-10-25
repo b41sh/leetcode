@@ -6,6 +6,7 @@ LeetCode Solutions
 |---| ----- | -------- | ---------- |
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap)| [Java](./src/leetcode/array/FairCandySwap.java)|Easy|
 |886|[Possible Bipartition](https://leetcode.com/problems/possible-bipartition)| [Java](./src/leetcode/graph/PossibleBipartition.java)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](./src/leetcode/tree/KthSmallestElementInAbst.java)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](./src/leetcode/tree/InvertBinaryTree.java)|Easy|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [Java](./src/leetcode/math/RectangleArea.java)|Medium|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](./src/leetcode/tree/CountCompleteTreeNodes.java)|Medium|
