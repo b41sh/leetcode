@@ -18,6 +18,8 @@ LeetCode Solutions
 |202|[Happy Number](https://leetcode.com/problems/happy-number)| [Java](./src/leetcode/math/HappyNumber.java)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](./src/leetcode/tree/BinaryTreeRightSideView.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./src/leetcode/bit/NumberOf1Bits.java)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./src/leetcode/bit/ReverseBits.java)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| [Java](./src/leetcode/array/RotateArray.java)|Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [SQL](./src/leetcode/sql/SecondHighestSalary.sql)|Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables)| [SQL](./src/leetcode/sql/CombineTwoTables.sql)|Easy|
