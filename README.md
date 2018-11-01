@@ -12,6 +12,8 @@ LeetCode Solutions
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](./src/leetcode/tree/CountCompleteTreeNodes.java)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square)| [Java](./src/leetcode/dp/MaximalSquare.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
+|211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/)| [Java](./src/leetcode/design/WordDictionary.java)|Medium|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| [Java](./src/leetcode/design/Trie.java)|Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)| [Java](./src/leetcode/list/ReverseLinkedList.java)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./src/leetcode/string/IsomorphicStrings.java)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)| [Java](./src/leetcode/list/RemoveLinkedListElements.java)|Easy|
