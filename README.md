@@ -18,6 +18,7 @@ LeetCode Solutions
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Java](./src/leetcode/string/IsomorphicStrings.java)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements)| [Java](./src/leetcode/list/RemoveLinkedListElements.java)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number)| [Java](./src/leetcode/math/HappyNumber.java)|Easy|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [Java](./src/leetcode/bit/BitwiseAndOfNumbersRange.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](./src/leetcode/tree/BinaryTreeRightSideView.java)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](./src/leetcode/dp/HouseRobber.java)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./src/leetcode/bit/NumberOf1Bits.java)|Easy|
